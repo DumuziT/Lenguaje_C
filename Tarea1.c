@@ -185,7 +185,7 @@ int main()
     do
     {
         //Imprime el resultado de las variables "a", "b", "c"
-        printf("(a) = %d\n(b) = %d\n(e) = %d\n\n", a, b, e);
+        printf("\n(a) = %d\n(b) = %d\n(e) = %d\n\n", a, b, e);
         //Pide al usuario que elija la funcion
         printf("1) Cantidad de dígitos impares de (e)\n");
         printf("2) Cantidad de dígitos pares de (e)\n");
